@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1440915818 source:c:\users\achillies\desktop\ankit\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+
