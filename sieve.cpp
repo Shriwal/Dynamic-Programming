@@ -1,5 +1,5 @@
-#include<bits/stdc++.h>
-#define lli long long int
+#include<bits/stdc++.h>           //Complexity of program
+#define lli long long int         //O(n.loglogn)
 using namespace std;
 
 int main(){
