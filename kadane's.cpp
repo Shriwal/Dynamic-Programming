@@ -16,7 +16,7 @@ int main()
     int ans=a[0],sum=0;          //Implementation Start
     for(int i=1;i<n;i++)         //Check for negative numbers
     {
-        ans=max(sum,ans);
+        ans=max(a[i],ans);
     }
     if(ans<0)
             cout<<ans;
